@@ -13,7 +13,6 @@ Welcome
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```js
-break
 case 'lagu1':
 case 'lagu2':
 case 'lagu3':
